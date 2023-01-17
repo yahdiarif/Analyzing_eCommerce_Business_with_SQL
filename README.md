@@ -1,0 +1,2 @@
+# Analyzing_eCommerce_Business_with_SQL
+Menganalisa peformance bisnis eCommerce menggunakan SQL
