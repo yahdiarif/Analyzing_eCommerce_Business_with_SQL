@@ -18,6 +18,7 @@ Dalam suatu perusahaan mengukur performa bisnis sangatlah penting untuk melacak,
 4. Annual Product Category Quality Analysis
 5. Analysis of Annual Payment Type Usage
 
+[query](https://docs.google.com/document/d/13jPrcrh7s3BAK7NAppJ3TsLr6mXgXNPR1pWo2Pxe_i4/edit?usp=sharing)
 
 ### 1. Data Preparation
 kita dapat membuat table nya dulu di postgreSQL dan kita perhatikan juga tipe datanya, kita pastikan tipe datanya sesuai dengan table table dataset. kita dapat melihat dulu dataset nya menggunakan excel untuk memastikan isi dari data set tersebut sudah sesuai agar tipe data nya tidak salah.
@@ -82,3 +83,5 @@ secara  keseluruhan  metode credit card yang paling banyak di gunakan  tiap  tah
 Tiap  kategori juga selalu  meningkat  kecuali  metode voucher yang mengalami  penurunan  dari  tahun 2017 ke 2018.
 
 Mungkin  dikarenakan  kurang  menarik  nya voucher yang di tawarkan  atau  kurang  nya  variasi  vocher yang di tawarkan.
+
+[query](https://docs.google.com/document/d/13jPrcrh7s3BAK7NAppJ3TsLr6mXgXNPR1pWo2Pxe_i4/edit?usp=sharing)
