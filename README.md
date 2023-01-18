@@ -24,7 +24,7 @@ kita dapat membuat table nya dulu di postgreSQL dan kita perhatikan juga tipe da
 setelah di buat tabel - tabel nya kita import dataset nya ke SQL menggunakan fiture import yang ada di postgreSQL. setelah itu kita select masing masing table untuk mengecek apakah dataset sudah ter-import dengan benar atau belum.
 
 ### 2. ERD eCommerce
-![My Image](src/ERD.png =250x250)
+![My Image](src/ERD.png)
 Create ERD di UI PgAdmin  dengan  cara generate ERD dan menambahakan masing- masing relasinya. dari ERD ini kita dapat melihat hubungan tiap tabel.
 
 ###  3. Annual Customer Activity Growth Analysis
