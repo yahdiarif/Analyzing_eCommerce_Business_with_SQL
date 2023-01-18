@@ -24,7 +24,7 @@ kita dapat membuat table nya dulu di postgreSQL dan kita perhatikan juga tipe da
 setelah di buat tabel - tabel nya kita import dataset nya ke SQL menggunakan fiture import yang ada di postgreSQL. setelah itu kita select masing masing table untuk mengecek apakah dataset sudah ter-import dengan benar atau belum.
 
 ### 2. ERD eCommerce
-![My Image](src/ERD.png)
+![My Image](src/ERD.png =250x250)
 Create ERD di UI PgAdmin  dengan  cara generate ERD dan menambahakan masing- masing relasinya. dari ERD ini kita dapat melihat hubungan tiap tabel.
 
 ###  3. Annual Customer Activity Growth Analysis
@@ -66,13 +66,17 @@ Hal yang menarik  adalah pada tahun 2018 Kategori yang memiliki revenue tertingg
 
 ### 5. Analysis of Annual Payment Type Usage
 ![My Image](src/Picture11.png)  ![My Image](src/Picture12.png)
+
 Ranking type payment terfavorite (paling banyak di pakai) di semua  transaksi dan semua  tahun.
 credit_card  menjadi type payment paling banyak di gunakan.
 
 ![My Image](src/Picture13.png)
+
 Table di atas  menunjukan detail dari  tipe payment yang telah di gunakan  pelanggan  tiap  tahun  nya
 
+
 ![My Image](src/Picture14.png)
+
 secara  keseluruhan  metode credit card yang paling banyak di gunakan  tiap  tahun  nya  untuk  melakukan  pembayaran.
 
 Tiap  kategori juga selalu  meningkat  kecuali  metode voucher yang mengalami  penurunan  dari  tahun 2017 ke 2018.
